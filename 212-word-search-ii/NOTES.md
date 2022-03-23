@@ -1,0 +1,1 @@
+Need to create trie + do backtracking dfs on said trie to get to solution
